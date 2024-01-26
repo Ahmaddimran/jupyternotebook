@@ -1,2 +1,2 @@
 # jupyternotebook
-IBM Course final assignment
+IBM Course Assignments
